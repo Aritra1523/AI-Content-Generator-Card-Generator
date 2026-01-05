@@ -1,0 +1,57 @@
+**AI Product Card Generator**
+
+An AI-powered web application that generates product card details such as title, description, and tags based on a product name and category. The app uses Google Gemini AI through a REST API and displays the generated content in a clean, responsive product card UI.
+
+ /*Assignment Details*/
+
+Assignment 2: AI Content Generator for Product Cards
+
+Problem Statement
+
+Create a web app that generates product card details (title, description, tags) using AI and displays them visually.
+
+/*Features*/
+
+ Input form for Product Name and Category
+
+ AI-generated:
+
+        Product Title
+
+        Short Description
+
+        Relevant Tags
+
+ Visually styled product card
+
+ Loading indicator during AI response
+
+ Fully responsive design
+
+ Error handling for invalid inputs and API failures
+
+ /*Tech Stack*/
+
+Frontend: React (Vite)
+
+Styling: CSS (Responsive & animated UI)
+
+AI Model: Google Gemini 2.5 Flash (Free Tier)
+
+API Integration: REST API (fetch)
+
+State Management: React useState
+
+ /*AI Model Used*/
+
+Model: gemini-2.5-flash
+
+Why this model?
+
+Free to use (with API key)
+
+Fast response
+
+Ideal for short text generation
+
+Suitable for frontend AI projects
