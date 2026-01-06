@@ -9,8 +9,8 @@ This project is developed as part of **Assignment 2: AI Content Generator for Pr
 
 ## Project Preview
 
-![![public/Screenshot 2026-01-06 090856.png](<public/Screenshot 2026-01-06 090856.png>)]
-![![public/Screenshot 2026-01-06 090856.png](<public/Screenshot 2026-01-06 091014.png>)]
+![public/Screenshot 2026-01-06 090856.png](<public/Screenshot 2026-01-06 090856.png>)
+![public/Screenshot 2026-01-06 090856.png](<public/Screenshot 2026-01-06 091014.png>)
 ---
 
 ## Assignment Overview
