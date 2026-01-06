@@ -5,7 +5,7 @@ The app uses Google Gemini AI (gemini-2.5-flash) via REST API and displays the r
 
 This project is built as part of Assignment 2: AI Content Generator for Product Cards.
 
-Assignment Overview
+``` Assignment Overview ```
 Problem Statement
 
 Create a web app that generates product card details (title, description, tags) using AI and displays them visually.
