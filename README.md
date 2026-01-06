@@ -1,4 +1,4 @@
-AI Product Card Generator
+# AI Product Card Generator
 
 An AI-powered web application that generates product titles, descriptions, and tags based on a product name and category.
 The app uses Google Gemini AI (gemini-2.5-flash) via REST API and displays the result as a styled, responsive product card.
