@@ -54,7 +54,7 @@ Format:
 
     let text = data.candidates[0].content.parts[0].text;
 
-    // 🔥 CLEAN THE RESPONSE
+  
     text = text.replace(/```json/g, "");
     text = text.replace(/```/g, "");
     text = text.trim();
