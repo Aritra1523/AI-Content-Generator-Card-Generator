@@ -1,66 +1,65 @@
 # AI Product Card Generator
 
-An AI-powered web application that generates product titles, descriptions, and tags based on a product name and category.
+An AI-powered web application that generates product titles, descriptions, and tags based on a product name and category.  
 The app uses Google Gemini AI (gemini-2.5-flash) via REST API and displays the result as a styled, responsive product card.
 
 This project is built as part of Assignment 2: AI Content Generator for Product Cards.
 
-``` Assignment Overview ```
-Problem Statement
+---
+
+## Assignment Overview
+
+### Problem Statement
 
 Create a web app that generates product card details (title, description, tags) using AI and displays them visually.
 
-Features
+---
 
-User form with:
+## Features
 
-Product Name
+- User Input
+  - Product Name
+  - Product Category
 
-Product Category
+- AI-Generated Content
+  - Product Title
+  - Short Description
+  - Relevant Tags
 
-AI-generated content:
+- User Interface
+  - Styled product card UI
+  - Loading indicator during AI response
+  - Fully responsive design
 
-Product Title
+- Validation
+  - Input validation
+  - Error handling
 
-Short Description
+---
 
-Relevant Tags
+## Tech Stack
 
-Styled product card UI
+- Frontend: React (Vite)
+- Styling: CSS
+- AI Model: Google Gemini 2.5 Flash (Free Tier)
+- API Integration: REST API (fetch)
+- State Management: React Hooks (useState)
 
-Loading indicator during AI response
+---
 
-Fully responsive design
+## AI Model Used
 
-Input validation and error handling
+- Model Name: gemini-2.5-flash
 
-Tech Stack
+### Why this model?
+- Free to use with API key
+- Fast response time
+- Ideal for short text generation
+- Suitable for frontend AI projects
 
-Frontend: React (Vite)
+---
 
-Styling: CSS
+## Author
 
-AI Model: Google Gemini 2.5 Flash (Free Tier)
-
-API Integration: REST API (fetch)
-
-State Management: React Hooks (useState)
-
-AI Model Used
-
-Model Name: gemini-2.5-flash
-
-Why this model?
-
-Free to use with API key
-
-Fast response time
-
-Ideal for short text generation
-
-Suitable for frontend AI projects
-
-Author
-
-Aritra Das
+Aritra Das  
 B.Tech in Computer Science (2025)
